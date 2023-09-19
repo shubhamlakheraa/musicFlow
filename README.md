@@ -40,7 +40,7 @@ To run this MusicFlow on your local machine, follow these steps:
 
 4. **Start the Development Server:**
    ```
-   npm start
+   npm run dev
    ```
 
 5. **Open in Your Browser:**
